@@ -49,6 +49,18 @@ Sou apaixonada pela interseção entre **Dados, Tecnologia e Negócios**. Acredi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrie1aa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
+### Minha 🐍 de Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrie1aa/gabrie1aa/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrie1aa/gabrie1aa/output/github-contribution-grid-snake.svg">
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/gabrie1aa/gabrie1aa/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=48203b&height=100&section=footer&width=1000" />
 </div>
+
+---
